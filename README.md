@@ -1,9 +1,20 @@
 # nasa_api_flutter_project
 
-Api sayesinde dönen resimleri pagination ile bir CollectionView içerisinde göstermeniz beklenmektedir. (infinite Scroll olacak)
+# Debug ile çalıştırmada problem çıkar ve proje çalışmazsa,
+  Terminale aşağıdaki kodu yazıp enterlayabilirsiniz:
+  
+  ```flutter run -d chrome --web-renderer html```
 
-Bir tane tabbar içinde 3 tane tab olmalı. Her bir Tab de Curiosity, Opportunity, Spirit araçlarından birine ait fotoğraflar bulunmalı.
+Api sayesinde araçların çektiği fotoğrafları gösterdim.
 
-Her araç için sağ üstte bulunan filtre butonu ile filtreleme yapılarak kameraya göre filtreleme yapılabilmelidir.
+Her araç için tab ayarladım. Her tab içinde sadece o aracın çektiği fotoğrafları gösterdim.
 
-Resimlerden birine dokunulduğunda bir pop up açılıp pop up’ta üstte resim alt kısımda ise çekildiği tarih, araç adı, hangi kameradan çekildiği, aracın görev durumu, aracın fırlatma tarihi ve iniş tarihi bilgileri yer almalıdır.
+Her tab'e filtre butonu ekledim fakat işlevini tamamlayamadım. Dolayısıyla filtreleyemiyorum.
+
+Fotoğraflara dokunulduğunda, fotoğraf ve fotoğraf ile ilgili bilgilerin olduğu sayfaya geçiş yapılabilir hale getirdim.
+!!!!! index sorununu çözemediğim için, tıklanılan fotoğraf ne olursa olsun, ekrana hep o araca ait çekilmiş İLK fotoğraf geliyor.
+
+
+##NOT:
+Mobil programlama dilleri (kullandığım dart, flutter da dahil) ve api hakkında hiçbir bilgiye sahip değildim. Araştırmalarım sonucu parçaları birleştirerek 0 bilgiden bu noktaya getirebildim. Fakat proje sayesinde api hakkında bilgim arttı ve bana katkısı oldu. "Api nedir?" başlıklı yazıları okumama rağmen anlamamıştım. Ödev ile anlamaya başladım.
+Projeyi tam olarak bitiremesem de yapabildiğim kısmı göndermek istedim.
