@@ -1,9 +1,9 @@
 # nasa_api_flutter_project
 
 ## Debug ile çalıştırmada problem çıkar ve proje çalışmazsa,
-  Terminale aşağıdaki kodu yazıp enterlayabilirsiniz:
+##  Terminale aşağıdaki kodu yazıp enterlayabilirsiniz:
   
-  ```flutter run -d chrome --web-renderer html```
+##  ```flutter run -d chrome --web-renderer html```
 
 Api sayesinde araçların çektiği fotoğrafları gösterdim.
 
