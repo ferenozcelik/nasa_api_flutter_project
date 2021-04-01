@@ -4,13 +4,13 @@
   
 ##  ```flutter run -d chrome --web-renderer html```
 
-Api sayesinde araçların çektiği fotoğrafları gösterdim.
+* Api sayesinde araçların çektiği fotoğrafları gösterdim.
 
-Her araç için tab ayarladım. Her tab içinde sadece o aracın çektiği fotoğrafları gösterdim.
+* Her araç için tab ayarladım. Her tab içinde sadece o aracın çektiği fotoğrafları gösterdim.
 
-Her tab'e filtre butonu ekledim fakat işlevini tamamlayamadım. Dolayısıyla filtreleyemiyorum.
+* Her tab'e filtre butonu ekledim fakat işlevini tamamlayamadım. Dolayısıyla filtreleyemiyorum.
 
-Fotoğraflara dokunulduğunda, fotoğraf ve fotoğraf ile ilgili bilgilerin olduğu sayfaya geçiş yapılabilir hale getirdim.
+* Fotoğraflara dokunulduğunda, fotoğraf ve fotoğraf ile ilgili bilgilerin olduğu sayfaya geçiş yapılabilir hale getirdim.
 !!!!! index sorununu çözemediğim için, tıklanılan fotoğraf ne olursa olsun, ekrana hep o araca ait çekilmiş İLK fotoğraf geliyor.
 
 
