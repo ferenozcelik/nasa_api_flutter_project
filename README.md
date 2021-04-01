@@ -1,16 +1,9 @@
 # nasa_api_flutter_project
 
-A new Flutter project.
+Api sayesinde dönen resimleri pagination ile bir CollectionView içerisinde göstermeniz beklenmektedir. (infinite Scroll olacak)
 
-## Getting Started
+Bir tane tabbar içinde 3 tane tab olmalı. Her bir Tab de Curiosity, Opportunity, Spirit araçlarından birine ait fotoğraflar bulunmalı.
 
-This project is a starting point for a Flutter application.
+Her araç için sağ üstte bulunan filtre butonu ile filtreleme yapılarak kameraya göre filtreleme yapılabilmelidir.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Resimlerden birine dokunulduğunda bir pop up açılıp pop up’ta üstte resim alt kısımda ise çekildiği tarih, araç adı, hangi kameradan çekildiği, aracın görev durumu, aracın fırlatma tarihi ve iniş tarihi bilgileri yer almalıdır.
