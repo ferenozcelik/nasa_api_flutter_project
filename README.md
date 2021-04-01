@@ -14,6 +14,6 @@ Fotoğraflara dokunulduğunda, fotoğraf ve fotoğraf ile ilgili bilgilerin oldu
 !!!!! index sorununu çözemediğim için, tıklanılan fotoğraf ne olursa olsun, ekrana hep o araca ait çekilmiş İLK fotoğraf geliyor.
 
 
-##NOT:
+### NOT:
 Mobil programlama dilleri (kullandığım dart, flutter da dahil) ve api hakkında hiçbir bilgiye sahip değildim. Araştırmalarım sonucu parçaları birleştirerek 0 bilgiden bu noktaya getirebildim. Fakat proje sayesinde api hakkında bilgim arttı ve bana katkısı oldu. "Api nedir?" başlıklı yazıları okumama rağmen anlamamıştım. Ödev ile anlamaya başladım.
 Projeyi tam olarak bitiremesem de yapabildiğim kısmı göndermek istedim.
