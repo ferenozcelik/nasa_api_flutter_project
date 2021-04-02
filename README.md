@@ -1,6 +1,6 @@
 # nasa_api_flutter_project
 
-## Debug ile çalıştırmada problem çıkar ve proje çalışmazsa, Terminale aşağıdaki kodu yazıp enterlayabilirsiniz:
+## Visual Studio'da Debug ile çalıştırmada problem çıkar ve proje çalışmazsa, Terminale aşağıdaki kodu yazıp enterlayabilirsiniz:
   
 ##  ```flutter run -d chrome --web-renderer html```
 
